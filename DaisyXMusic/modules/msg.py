@@ -52,8 +52,7 @@ class Messages:
 - /splay: Play song via jio saavn
 - /ytplay: Directly play song via Youtube Music
 
-**=>> Playback ⏯**
-
+**=>> Playback ⏯*
 - /player: Open Settings menu of player
 - /skip: Skips the current track
 - /pause: Pause track
